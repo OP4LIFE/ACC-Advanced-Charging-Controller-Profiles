@@ -1,0 +1,21 @@
+#RESILIENT#
+
+configVerCode=202012070
+capacity=(0 101 40 41 false)
+temperature=(101 48 90 50)
+cooldownRatio=()
+cooldownCurrent=
+cooldownCustom=()
+resetBattStats=(false false)
+chargingSwitch=()
+applyOnBoot=()
+applyOnPlug=()
+maxChargingCurrent=(1500)
+maxChargingVoltage=(3920)
+language=en
+runCmdOnPause=()
+ampFactor=
+voltFactor=
+loopCmd=()
+prioritizeBattIdleMode=false
+currentWorkaround=false

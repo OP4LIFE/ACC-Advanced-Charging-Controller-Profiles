@@ -1,0 +1,21 @@
+#FAST#
+
+configVerCode=202012070
+capacity=(0 101 74 75 false)
+temperature=(101 43 90 45)
+cooldownRatio=()
+cooldownCurrent=
+cooldownCustom=()
+resetBattStats=(false false)
+chargingSwitch=()
+applyOnBoot=()
+applyOnPlug=()
+maxChargingCurrent=()
+maxChargingVoltage=()
+language=en
+runCmdOnPause=()
+ampFactor=
+voltFactor=
+loopCmd=()
+prioritizeBattIdleMode=false
+currentWorkaround=false
