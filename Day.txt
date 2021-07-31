@@ -19,3 +19,8 @@ voltFactor=
 loopCmd=()
 prioritizeBattIdleMode=false
 currentWorkaround=false
+
+# Command line commands for this profile
+# acc -s shutdown_capacity cooldown_capacity resume_capacity pause_capacity
+# acc -s cooldown_temp max_temp max_temp_pause shutdown_temp
+# acc -s max_charging_current max_charging_voltage
